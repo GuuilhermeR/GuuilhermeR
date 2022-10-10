@@ -15,6 +15,7 @@
 ## Contatos:
 
 <div>
+<a href="https://instagram.com/guilherme.rudiger" target="_blank"><img src="https://img.shields.io/badge/-FACEBOOK-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white&color=blue" target="_blank"></a>
 <a href="https://instagram.com/guilherme.rudiger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guilherme.rudiger@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/guilherme-rüdiger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
