@@ -1,8 +1,7 @@
 # Olá, me chamo Guilherme Rudiger ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em Desenvolvimento de Programas C# e VB.net
-- 🌱 Atualmente estou melhorando meu aprendizado em C#.
+<div class="tenor-gif-embed" data-postid="13830351" data-share-method="host" data-aspect-ratio="2.4" data-width="100%"><a href="https://tenor.com/view/hello-sexy-hi-hello-mr-bean-gif-13830351">Hello Sexy Hi GIF</a>from <a href="https://tenor.com/search/hello+sexy-gifs">Hello Sexy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Ferramentas e Tecnologias
 
