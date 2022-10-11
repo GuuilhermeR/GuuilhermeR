@@ -9,8 +9,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Estou aprendendo
+![345-3450034_c-logo-hd-png-download-removebg-preview](https://user-images.githubusercontent.com/42014565/194970162-0bc6bb67-b73e-4cdd-ae32-478e1008e4b6.png)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
