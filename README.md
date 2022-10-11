@@ -9,13 +9,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
           
 
-## Estou aprendendo
-![picwish](https://user-images.githubusercontent.com/42014565/194970284-bbd5e8d5-d420-4f6d-b814-f04b55783ca6.png)
-
+## Estou aprofundando o conhecimento em
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="60" height="60"/>
 
 
 ## Contatos:
-
 <div>
 <a href="https://www.facebook.com/guilherme.rudiger.3/" target="_blank"><img src="https://img.shields.io/badge/-FACEBOOK-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white&color=blue" target="_blank"></a>
 <a href="https://instagram.com/guilherme.rudiger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
