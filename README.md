@@ -1,9 +1,11 @@
 # Olá, me chamo Guilherme Rudiger ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<div class="tenor-gif-embed" data-postid="15373614" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://tenor.com/view/jack-black-sexy-hello-hola-looking-good-gif-15373614)" width="60" height="60"/>
-</div> 
+Sou formado em Engenharia de Software.
+Curto assistir séries e filmes.
+Gosto de viajar.
+Gosto de fazer programas aleatórios para aperfeiçoar meu desenvolvimento.
+E amo trabalhar com programação.
 
 ## Ferramentas e Tecnologias
 
