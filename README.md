@@ -2,6 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 Sou formado em Engenharia de Software.
+Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis.
+
+
 Curto assistir séries e filmes.
 Gosto de viajar.
 Gosto de fazer programas aleatórios para aperfeiçoar meu desenvolvimento.
