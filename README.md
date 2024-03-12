@@ -13,7 +13,7 @@ E amo trabalhar com programação.
           
 
 ## Estou aprofundando o conhecimento em
-<img src="https://www.python.org/static/img/python-logo.png" width="60" height="60"/>
+<img src="https://www.python.org/static/img/python-logo.png" width="290" height="82"/>
 
 
 ## Contatos:
