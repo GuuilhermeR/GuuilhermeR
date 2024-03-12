@@ -1,12 +1,12 @@
 # Olá, me chamo Guilherme Rudiger ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-##Formação
+## Formação
 <li>Sou formado em Engenharia de Software.</li>
 <li>Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis.</li>
 
 
-##Lazer
+## Lazer
 <li>Curto assistir séries e filmes.</li>
 <li>Gosto de viajar.</li>
 <li>Gosto de fazer programas aleatórios para aperfeiçoar meu desenvolvimento.</li>
