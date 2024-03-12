@@ -1,15 +1,18 @@
 # Olá, me chamo Guilherme Rudiger ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou formado em Engenharia de Software.
-Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis.
+##Formação
+<li>Sou formado em Engenharia de Software.</li>
+<li>Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis.</li>
 
-<li>
+
+##Lazer
 <li>Curto assistir séries e filmes.</li>
 <li>Gosto de viajar.</li>
 <li>Gosto de fazer programas aleatórios para aperfeiçoar meu desenvolvimento.</li>
 <li>E amo trabalhar com programação.</li>
-</li>
+
+
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" width="60" height="60"/>
