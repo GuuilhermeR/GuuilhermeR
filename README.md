@@ -13,7 +13,7 @@ E amo trabalhar com programação.
           
 
 ## Estou aprofundando o conhecimento em
-<img src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.png" width="60" height="60"/>
+<img src="https://www.python.org/static/img/python-logo.png" width="60" height="60"/>
 
 
 ## Contatos:
