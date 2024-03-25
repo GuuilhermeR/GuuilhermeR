@@ -3,7 +3,7 @@
 
 ## Formação
 <li>Sou formado em Engenharia de Software.</li>
-<li>Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis.</li>
+<li>Faço pós graduação em MBA em Gestão de Projetos e Processos Ágeis e estou aprimorando meus conhecimentos em programação.</li>
 
 
 ## Lazer
