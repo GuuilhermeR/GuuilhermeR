@@ -19,7 +19,7 @@
           
 
 ## Estou aprofundando o conhecimento em
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/260px-Rust_programming_language_black_logo.svg.png" width="290" height="82"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/260px-Rust_programming_language_black_logo.svg.png" width="60" height="60"/>
 
 
 ## Contatos:
