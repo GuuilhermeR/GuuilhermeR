@@ -26,7 +26,7 @@
 <div>
 <a href="https://www.facebook.com/guilherme.rudiger.3/" target="_blank"><img src="https://img.shields.io/badge/-FACEBOOK-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white&color=blue" target="_blank"></a>
 <a href="https://instagram.com/guilherme.rudiger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[www.linkedin.com/in/guilherme-rüdiger](https://www.linkedin.com/in/guilherme-r%C3%BCdiger/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/guilherme-r%C3%BCdiger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="http://wa.me/+5547999145852" target="_blank"><img src="https://img.shields.io/badge/-WHATSAPP-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white&color=green" target="_blank"></a> 
 <a href = "mailto:guilherme.rudiger@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
