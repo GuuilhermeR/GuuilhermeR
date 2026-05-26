@@ -14,7 +14,7 @@ Tenho paixão por tecnologia, aprendizado contínuo e desenvolvimento de soluç�
 
 - 🎓 **Bacharelado em Engenharia de Software**
 - 🎓 **MBA em Gestão de Projetos e Metodologias Ágeis**
-- 📚 **Cursando BMA em Liderança e Gestão de Pessoas**
+- 🎓 **MBA em Liderança e Gestão de Pessoas**
 
 ---
 
